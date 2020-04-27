@@ -1,5 +1,8 @@
 ## Welcome to the SimDiversity project
 
+
+### Projcet outline
+
 The project SimDiversity proposes to define, study and diffuse new measures of diversity, where the similar- ities between the constituents (types, categories) are explicitly taken into account. Those measures extend the classical diversity measures (Shannon, Tsallis, Rényi and variants) which are recovered in the limit of infinitely distinct types. They crucially depend on the nature of the similarities at stake. Conversely, similarity-reduced measures of diversity help characterizing and understanding the nature of similarities in Data Analysis, much less investigated than dissimilarities.
 
 Firmly grounded in a robust and innovative mathematical formalism, the project aims at unifying and stimulating the use of similarity-reduced measures of diversity in the social and natural sciences, in particular for textual data, geography, political science, and biology-ecology. Its interdisciplinary nature makes it less likely to be supported by more conventional mono-disciplinary funding schemes. Building from currently available, preliminary results and numerical code applied on toy data-sets, the project consists of:
